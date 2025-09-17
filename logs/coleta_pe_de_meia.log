@@ -1,0 +1,20 @@
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')
+/home/ubuntu/coletar_pe_de_meia_completo.py:90: DtypeWarning: Columns (6) have mixed types. Specify dtype option on import or set low_memory=False.
+  df = pd.read_csv(io.StringIO(csv_content), sep=';', encoding='utf-8')

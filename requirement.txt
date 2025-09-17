@@ -1,0 +1,5 @@
+request
+selenium
+webdriver-manager
+pandas
+jupyter
